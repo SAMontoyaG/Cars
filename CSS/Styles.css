@@ -15,8 +15,18 @@
     background-color: rgb(0, 183, 255);
 }
 
-.img{
-    width: 86%;
+.imge{
     border-radius: 7px;
     opacity: initial;
+}
+
+.imgindex{
+    border-radius: 7px;
+    opacity: initial;
+}
+
+.imgindex:hover{
+    width: 400px;
+    opacity: 1;
+    filter: contrast(120%);
 }
